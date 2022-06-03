@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/stripe-clone/static/css/main.c866a211.chunk.css",
+    "main.js": "/stripe-clone/static/js/main.c5bcd8ef.chunk.js",
+    "main.js.map": "/stripe-clone/static/js/main.c5bcd8ef.chunk.js.map",
+    "runtime-main.js": "/stripe-clone/static/js/runtime-main.ed73f593.js",
+    "runtime-main.js.map": "/stripe-clone/static/js/runtime-main.ed73f593.js.map",
+    "static/js/2.e1e77988.chunk.js": "/stripe-clone/static/js/2.e1e77988.chunk.js",
+    "static/js/2.e1e77988.chunk.js.map": "/stripe-clone/static/js/2.e1e77988.chunk.js.map",
+    "index.html": "/stripe-clone/index.html",
+    "precache-manifest.a50d07cd81526af103d21b824868bfc8.js": "/stripe-clone/precache-manifest.a50d07cd81526af103d21b824868bfc8.js",
+    "service-worker.js": "/stripe-clone/service-worker.js",
+    "static/css/main.c866a211.chunk.css.map": "/stripe-clone/static/css/main.c866a211.chunk.css.map",
+    "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/stripe-clone/static/js/2.e1e77988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/stripe-clone/static/media/hero.882a211a.svg",
+    "static/media/logo.svg": "/stripe-clone/static/media/logo.86d618b5.svg",
+    "static/media/phone.svg": "/stripe-clone/static/media/phone.e908706c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed73f593.js",
+    "static/js/2.e1e77988.chunk.js",
+    "static/css/main.c866a211.chunk.css",
+    "static/js/main.c5bcd8ef.chunk.js"
+  ]
+}
