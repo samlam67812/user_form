@@ -1,16 +1,13 @@
 {
-  "user_form": [
-{"user_id":1,"username":"rhalhead0","email":"jdeedes0@spiegel.de","fullname":null,"displayname":null,"createdAt":"24/05/2022","createdBy":"2XL","isTermAccepted":true,"mobile":"612-490-6741","gender":null,"birthday":"02/27/2004","updatedAt":"05/09/2022","deletedAt":null},
+  "user_form":
+[
+  {"user_id":1,"username":"rhalhead0","email":"jdeedes0@spiegel.de","fullname":null,"displayname":null,"createdAt":"24/05/2022","createdBy":"2XL","isTermAccepted":true,"mobile":"612-490-6741","gender":null,"birthday":"02/27/2004","updatedAt":"05/09/2022","deletedAt":null},
 {"user_id":2,"username":"dlusher1","email":"dlusher1@moonfruit.com","fullname":"Dyana Lusher","displayname":"Nesomimus trifasciatus","createdAt":"19/03/2022","createdBy":"S","isTermAccepted":true,"mobile":"748-267-8586","gender":"Female","birthday":"07/27/1993","updatedAt":"04/15/2022","deletedAt":null},
 {"user_id":3,"username":"ctrousdale2","email":"ctrousdale2@un.org","fullname":"Cary Trousdale","displayname":"Equus hemionus","createdAt":"16/04/2022","createdBy":"M","isTermAccepted":false,"mobile":null,"gender":"Female","birthday":null,"updatedAt":null,"deletedAt":null},
 {"user_id":4,"username":"amoine3","email":"amoine3@geocities.com","fullname":"Alie Moine","displayname":"Capreolus capreolus","createdAt":"22/03/2022","createdBy":"XS","isTermAccepted":true,"mobile":null,"gender":"Female","birthday":"02/24/1971","updatedAt":"06/08/2022","deletedAt":null},
 {"user_id":5,"username":"dmillichip4","email":"dmillichip4@freewebs.com","fullname":"Darcey Millichip","displayname":"Columba palumbus","createdAt":"27/06/2022","createdBy":"3XL","isTermAccepted":true,"mobile":"976-971-3417","gender":"Female","birthday":"08/07/1987","updatedAt":"01/20/2022","deletedAt":null},
-],
-  "salon_form": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
+{"user_id":6,"username":"dpettyfer5","email":"viapico5@tiny.cc","fullname":null,"displayname":"Lophoaetus occipitalis","createdAt":"09/03/2022","createdBy":"2XL","isTermAccepted":false,"mobile":null,"gender":"Female","birthday":"08/27/1990","updatedAt":"04/09/2022","deletedAt":null},
+{"user_id":7,"username":"breary6","email":"breary6@berkeley.edu","fullname":"Binky Reary","displayname":"Butorides striatus","createdAt":"17/06/2022","createdBy":"XL","isTermAccepted":false,"mobile":null,"gender":"Male","birthday":"10/21/1983","updatedAt":"03/11/2022","deletedAt":null},
+{"user_id":8,"username":"cducker7","email":"cducker7@tinyurl.com","fullname":"Cathe Ducker","displayname":"Snycerus caffer","createdAt":"09/02/2022","createdBy":"M","isTermAccepted":true,"mobile":"275-356-5761","gender":"Female","birthday":"11/13/1999","updatedAt":"02/05/2022","deletedAt":null}
   ]
 }
