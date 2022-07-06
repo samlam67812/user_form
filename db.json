@@ -1,32 +1,34 @@
 {
   "user_form": [
-{"user_id":1,"username":"rhalhead0","email":"jdeedes0@spiegel.de","fullname":null,"displayname":null,"createdAt":"24/05/2022","createdBy":"2XL","isTermAccepted":true,"mobile":"612-490-6741","gender":"Female","birthday":"02/27/2004","updatedAt":"05/09/2022","deletedAt":''}
-    ,
     {
-      "user_id": "21",
-      "username": "cosys21",
-      "email": "yahoo@yahoo.com",
-      "fullname": "COSYS",
-      "displayname": "cosys",
-      "gender": "Male",
-      "mobile": "78901234",
-      "birthday": "6/7/2022, 9:36:45 pm",
+      "user_id": "1","username": "rhalhead0",
+      "email": "jdeedes0@spiegel.de","fullname": "","displayname": "",
+      "gender": "Male","mobile": "612-490-6741",
+      "birthday": "2022-07-06T16:00:00.000Z",
+      "isTermAccepted": "No",
+      "createdAt": "24/05/2022, 9:36:45 am",
+      "updatedAt": "2022-07-28T16:00:00.000Z",
+      "deletedAt": "2022-07-18T16:00:00.000Z",
+      "createdBy": "admin2",
+      "id": 4
+    },
+    {
+      "user_id": "2","username": "dlusher1",
+      "email": "dler1@moot.com","fullname": "Dyana Lusher","displayname": "Nesomimus",
+      "gender": "Male","mobile": "748-267-8586",
+      "birthday": "6/7/2002, 9:36:45 pm",
       "isTermAccepted": "Yes",
-      "createdAt": "2022-07-04T16:00:00.000Z",
+      "createdAt": "6/7/2022, 12:42:12 pm",
       "updatedAt": "2022-07-28T16:00:00.000Z",
       "deletedAt": "2022-07-18T16:00:00.000Z",
       "createdBy": "admin1",
       "id": 5
     },
     {
-      "user_id": "789",
-      "username": "BenLee",
-      "email": "benlee812@gmail.com",
-      "fullname": "Lee Ho Hin",
-      "displayname": "benlee812",
-      "gender": "Male",
-      "mobile": "70383543",
-      "birthday": "2022-08-11T16:00:00.000Z",
+      "user_id": "3","username": "breary6",
+      "email": "breary6@berkeley.edu","fullname": "Binky Reary","displayname": "Reary",
+      "gender": "Male","mobile": "",
+      "birthday": "3/3/1972, 9:36:45 pm",
       "isTermAccepted": "Yes",
       "createdAt": "6/7/2022, 12:42:12 pm",
       "updatedAt": "2022-07-05T16:00:00.000Z",
@@ -35,13 +37,13 @@
       "id": 7
     },
     {
-      "user_id": "5647",
-      "username": "thomass",
-      "email": "thomass@gmail.com",
-      "fullname": "thomass Wong",
+      "user_id": "4",
+      "username": "hsibbalde",
+      "email": "hsibbalde@gmail.com",
+      "fullname": "hsibbalde Wong",
       "displayname": "",
-      "gender": "",
-      "mobile": "",
+      "gender": "Female",
+      "mobile": "333-640-8660",
       "birthday": "",
       "isTermAccepted": "Yes",
       "createdAt": "6/7/2022, 2:52:31 pm",
@@ -51,7 +53,7 @@
       "id": 8
     },
     {
-      "user_id": "45",
+      "user_id": "5",
       "username": "HairCare",
       "email": "hairCare@yahoo.com.hk",
       "fullname": "HairCare Companison",
@@ -59,12 +61,28 @@
       "createdAt": "6/7/2022, 4:49:57 pm",
       "createdBy": "admin2",
       "isTermAccepted": "Yes",
-      "mobile": "",
+      "mobile": "863-874-9683",
       "gender": "Unsepicfied",
       "birthday": "",
       "updatedAt": "2022-07-20T16:00:00.000Z",
       "deletedAt": "",
       "id": 9
+    },
+    {
+      "user_id": "6",
+      "username": "gularis",
+      "email": "gularis@yahoo.com",
+      "fullname": "gularis",
+      "displayname": "Paroaria gularis",
+      "createdAt": "6/7/2022, 4:49:57 pm",
+      "createdBy": "admin2",
+      "isTermAccepted": "Yes",
+      "mobile": "714-633-1616",
+      "gender": "Unsepicfied",
+      "birthday": "",
+      "updatedAt": "2022-07-20T16:00:00.000Z",
+      "deletedAt": "",
+      "id": 10
     }
   ]
 }
