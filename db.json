@@ -1,21 +1,7 @@
 {
   "user_form": [
-    {
-      "user_id": "789",
-      "username": "hair",
-      "email": "hair@gmail.com",
-      "fullname": "AI Hair",
-      "displayname": "Aihair",
-      "gender": "Male",
-      "mobile": "83173572",
-      "birthday": "2022-07-06T16:00:00.000Z",
-      "isTermAccepted": "No",
-      "createdAt": "6/5/2022, 9:36:45 am",
-      "updatedAt": "2022-07-28T16:00:00.000Z",
-      "deletedAt": "2022-07-18T16:00:00.000Z",
-      "createdBy": "admin2",
-      "id": 4
-    },
+{"user_id":1,"username":"rhalhead0","email":"jdeedes0@spiegel.de","fullname":null,"displayname":null,"createdAt":"24/05/2022","createdBy":"2XL","isTermAccepted":true,"mobile":"612-490-6741","gender":Female,"birthday":"02/27/2004","updatedAt":"05/09/2022","deletedAt":''}
+    ,
     {
       "user_id": "21",
       "username": "cosys21",
