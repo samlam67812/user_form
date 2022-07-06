@@ -1,6 +1,6 @@
 {
   "user_form": [
-{"user_id":1,"username":"rhalhead0","email":"jdeedes0@spiegel.de","fullname":null,"displayname":null,"createdAt":"24/05/2022","createdBy":"2XL","isTermAccepted":true,"mobile":"612-490-6741","gender":Female,"birthday":"02/27/2004","updatedAt":"05/09/2022","deletedAt":''}
+{"user_id":1,"username":"rhalhead0","email":"jdeedes0@spiegel.de","fullname":null,"displayname":null,"createdAt":"24/05/2022","createdBy":"2XL","isTermAccepted":true,"mobile":"612-490-6741","gender":"Female","birthday":"02/27/2004","updatedAt":"05/09/2022","deletedAt":''}
     ,
     {
       "user_id": "21",
