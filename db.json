@@ -1,5 +1,6 @@
 {
-  "user_form": [{"user_id":1,"username":"rhalhead0","email":"jdeedes0@spiegel.de","fullname":null,"displayname":null,"createdAt":"24/05/2022","createdBy":"2XL","isTermAccepted":true,"mobile":"612-490-6741","gender":null,"birthday":"02/27/2004","updatedAt":"05/09/2022","deletedAt":null},
+  "user_form": [
+{"user_id":1,"username":"rhalhead0","email":"jdeedes0@spiegel.de","fullname":null,"displayname":null,"createdAt":"24/05/2022","createdBy":"2XL","isTermAccepted":true,"mobile":"612-490-6741","gender":null,"birthday":"02/27/2004","updatedAt":"05/09/2022","deletedAt":null},
 {"user_id":2,"username":"dlusher1","email":"dlusher1@moonfruit.com","fullname":"Dyana Lusher","displayname":"Nesomimus trifasciatus","createdAt":"19/03/2022","createdBy":"S","isTermAccepted":true,"mobile":"748-267-8586","gender":"Female","birthday":"07/27/1993","updatedAt":"04/15/2022","deletedAt":null},
 {"user_id":3,"username":"ctrousdale2","email":"ctrousdale2@un.org","fullname":"Cary Trousdale","displayname":"Equus hemionus","createdAt":"16/04/2022","createdBy":"M","isTermAccepted":false,"mobile":null,"gender":"Female","birthday":null,"updatedAt":null,"deletedAt":null},
 {"user_id":4,"username":"amoine3","email":"amoine3@geocities.com","fullname":"Alie Moine","displayname":"Capreolus capreolus","createdAt":"22/03/2022","createdBy":"XS","isTermAccepted":true,"mobile":null,"gender":"Female","birthday":"02/24/1971","updatedAt":"06/08/2022","deletedAt":null},
@@ -11,8 +12,5 @@
       "body": "some comment",
       "postId": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
