@@ -1,0 +1,126 @@
+{
+  "user_form": [
+    {
+      "user_id": "135",
+      "username": "username",
+      "email": "example@gmail.com",
+      "fullname": "UserName Random",
+      "displayname": "Random",
+      "createdAt": "6/7/2022, 5:46:34 pm",
+      "createdBy": "admin1",
+      "isTermAccepted": "Yes",
+      "mobile": "17437668",
+      "gender": "Female",
+      "birthday": "",
+      "updatedAt": "6/7/2022, 5:46:34 pm",
+      "deletedAt": "",
+      "id": 2
+    },
+    {
+      "user_id": "4132",
+      "username": "helloworld",
+      "email": "google@gmail.com",
+      "fullname": "13241234",
+      "displayname": "1341",
+      "createdAt": "5/7/2022, 9:36:45 am",
+      "createdBy": "admin2",
+      "isTermAccepted": "Yes",
+      "mobile": "",
+      "gender": "",
+      "birthday": "",
+      "updatedAt": "",
+      "deletedAt": "",
+      "id": 3
+    },
+    {
+      "user_id": "789",
+      "username": "hair",
+      "email": "hair@gmail.com",
+      "fullname": "AI Hair",
+      "displayname": "Aihair",
+      "gender": "Male",
+      "mobile": "83173572",
+      "birthday": "2022-07-06T16:00:00.000Z",
+      "isTermAccepted": "No",
+      "createdAt": "6/5/2022, 9:36:45 am",
+      "updatedAt": "2022-07-28T16:00:00.000Z",
+      "deletedAt": "2022-07-18T16:00:00.000Z",
+      "createdBy": "admin2",
+      "id": 4
+    },
+    {
+      "user_id": "21",
+      "username": "cosys21",
+      "email": "yahoo@yahoo.com",
+      "fullname": "COSYS",
+      "displayname": "cosys",
+      "gender": "Male",
+      "mobile": "78901234",
+      "birthday": "6/7/2022, 9:36:45 pm",
+      "isTermAccepted": "Yes",
+      "createdAt": "2022-07-04T16:00:00.000Z",
+      "updatedAt": "2022-07-28T16:00:00.000Z",
+      "deletedAt": "2022-07-18T16:00:00.000Z",
+      "createdBy": "admin1",
+      "id": 5
+    },
+    {
+      "user_id": "789",
+      "username": "BenLee",
+      "email": "benlee812@gmail.com",
+      "fullname": "Lee Ho Hin",
+      "displayname": "benlee812",
+      "gender": "Male",
+      "mobile": "70383543",
+      "birthday": "2022-08-11T16:00:00.000Z",
+      "isTermAccepted": "Yes",
+      "createdAt": "6/7/2022, 12:42:12 pm",
+      "updatedAt": "2022-07-05T16:00:00.000Z",
+      "deletedAt": "2022-07-05T16:00:00.000Z",
+      "createdBy": "admin1",
+      "id": 7
+    },
+    {
+      "user_id": "5647",
+      "username": "thomass",
+      "email": "thomass@gmail.com",
+      "fullname": "thomass Wong",
+      "displayname": "",
+      "gender": "",
+      "mobile": "",
+      "birthday": "",
+      "isTermAccepted": "Yes",
+      "createdAt": "6/7/2022, 2:52:31 pm",
+      "updatedAt": "2022-07-27T16:00:00.000Z",
+      "deletedAt": "",
+      "createdBy": "admin2",
+      "id": 8
+    },
+    {
+      "user_id": "45",
+      "username": "HairCare",
+      "email": "hairCare@yahoo.com.hk",
+      "fullname": "HairCare Companison",
+      "displayname": "",
+      "createdAt": "6/7/2022, 4:49:57 pm",
+      "createdBy": "admin2",
+      "isTermAccepted": "Yes",
+      "mobile": "",
+      "gender": "Unsepicfied",
+      "birthday": "",
+      "updatedAt": "2022-07-20T16:00:00.000Z",
+      "deletedAt": "",
+      "id": 9
+    }
+  ],
+  "salon_form": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
